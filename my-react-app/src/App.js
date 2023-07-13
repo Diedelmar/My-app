@@ -2,8 +2,8 @@ import 'bootstrap/dist/css/bootstrap.css';
 
 
 import React from 'react';
-import Header from './Header'
-import ItemListConteiner from './ItemListConteiner';
+import Header from './componentes/Header'
+import ItemListConteiner from './componentes/ItemListConteiner';
 function App() {
   return ( 
     <div>
